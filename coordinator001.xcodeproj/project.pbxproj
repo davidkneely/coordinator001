@@ -14,6 +14,7 @@
 		63D6B8892252C28C005BA027 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63D6B8872252C28C005BA027 /* LaunchScreen.storyboard */; };
 		63D6B8912252C2C5005BA027 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D6B8902252C2C5005BA027 /* Coordinator.swift */; };
 		63D6B8932252C344005BA027 /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D6B8922252C344005BA027 /* Storyboarded.swift */; };
+		63D6B8952252C43C005BA027 /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D6B8942252C43C005BA027 /* MainCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		63D6B88A2252C28C005BA027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63D6B8902252C2C5005BA027 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		63D6B8922252C344005BA027 /* Storyboarded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
+		63D6B8942252C43C005BA027 /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				63D6B87E2252C28B005BA027 /* AppDelegate.swift */,
 				63D6B8802252C28B005BA027 /* ViewController.swift */,
 				63D6B8822252C28B005BA027 /* Main.storyboard */,
+				63D6B8942252C43C005BA027 /* MainCoordinator.swift */,
 				63D6B8852252C28C005BA027 /* Assets.xcassets */,
 				63D6B8872252C28C005BA027 /* LaunchScreen.storyboard */,
 				63D6B88A2252C28C005BA027 /* Info.plist */,
@@ -144,6 +147,7 @@
 				63D6B8812252C28B005BA027 /* ViewController.swift in Sources */,
 				63D6B87F2252C28B005BA027 /* AppDelegate.swift in Sources */,
 				63D6B8912252C2C5005BA027 /* Coordinator.swift in Sources */,
+				63D6B8952252C43C005BA027 /* MainCoordinator.swift in Sources */,
 				63D6B8932252C344005BA027 /* Storyboarded.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
