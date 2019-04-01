@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CreateAccountViewController.swift
 //  coordinator001
 //
 //  Created by David on 4/1/19.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController, Storyboarded {
+class CreateAccountViewController: UIViewController, Storyboarded {
+    
+    weak var coordinator: MainCoordinator?
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
-
